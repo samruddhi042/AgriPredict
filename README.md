@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🌾 AgriPredict
-### *AI-Powered Crop Intelligence Platform for Indian Agriculture*
+# 🌾AgriPredict
 
 [![Python](https://img.shields.io/badge/Python-3.6+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-2.0-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com)
@@ -9,7 +8,6 @@
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-RandomForest-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 [![License](https://img.shields.io/badge/License-GNU_GPL-green?style=for-the-badge)](LICENSE)
 
-**Submitted to:** Agribusiness Hackathon 2026 | Gramin Tantradnyan Sanstha, Pune × SPPU Research Park Foundation
 
 > *"86 million small and marginal farmers in India make crop decisions based on intuition. AgriPredict changes that — one soil test at a time."*
 
