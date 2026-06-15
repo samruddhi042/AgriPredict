@@ -308,8 +308,8 @@ AgriPredict/
 
 ### Step 1: Clone & Navigate
 ```bash
-git clone https://github.com/Gladiator07/Harvestify.git
-cd Harvestify/app
+git clone https://github.com/samruddhi042/AgriPredict.git
+cd AgriPredict/app
 ```
 
 ### Step 2: Install Dependencies
@@ -384,13 +384,3 @@ Season-long yield loss   →   15–25% yield improvement
 - 📈 **Agribusiness** — Data insights on regional crop patterns and demand
 
 ---
-
-<div align="center">
-
-**Built for the Agribusiness Hackathon 2026**
-
-*Gramin Tantradnyan Sanstha, Pune × SPPU Research Park Foundation × Savitribai Phule Pune University*
-
-🌾 *Empowering Indian Agriculture Through Artificial Intelligence* 🌾
-
-</div>
